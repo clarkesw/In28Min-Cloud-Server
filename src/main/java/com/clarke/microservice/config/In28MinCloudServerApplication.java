@@ -1,4 +1,4 @@
-package com.clarke.microservice.config.spring_cloud_config_server;
+package com.clarke.microservice.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
