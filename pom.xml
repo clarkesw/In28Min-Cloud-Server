@@ -11,8 +11,8 @@
     <groupId>com.clarke.microservice.config</groupId>
     <artifactId>spring-cloud-config-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>In28Min Cloud Server</name>
-    <description>In28Min Cloud Server</description>
+    <name>Cloud Config Server</name>
+    <description>Cloud Server</description>
 
     <properties>
         <java.version>17</java.version>
